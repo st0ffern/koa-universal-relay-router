@@ -81,3 +81,12 @@ app.listen(8080, () => {
     console.log('Server is up')
 })
 ```
+
+#### Props
+#####renderServer
+| Prop | Type | Description |
+|---|---|---|
+|**`routes`**|`react-routes`| Routes for naviation|
+|**`render`**|`function`|Function to render default client template|
+|**`networkLayer`**|`Relay NetworkLayer`|Send a custom Relay NetworkLayer into the router|
+|**`graphqlUrl`**|`string`|URI of the GraphQL API|
