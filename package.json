@@ -2,7 +2,7 @@
   "name": "koa-universal-relay-router",
   "version": "0.0.0-development",
   "description": "Koa middleware for Universal/Isomorphic React + Relay rendering and routing",
-  "main": "lib/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "npm run clean && babel -r babel-register -d dist/ src/",
     "prepublish": "npm run build",
