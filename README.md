@@ -1,4 +1,6 @@
 # koa-universal-relay-router
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/stoffern/koa-universal-relay-router.svg)](https://greenkeeper.io/)
 Koa middleware for Universal/Isomorphic React + Relay rendering and routing
 
 ### Installation
