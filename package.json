@@ -32,28 +32,28 @@
   "dependencies": {
     "isomorphic-relay": "^0.7.4",
     "isomorphic-relay-router": "^0.8.6",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-helmet": "^4.0.0",
-    "react-relay": "^0.10.0",
-    "react-router": "^3.0.2",
-    "react-router-relay": "^0.13.5"
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-helmet": "^5.2.0",
+    "react-relay": "^1.4.1",
+    "react-router": "^4.2.0",
+    "react-router-relay": "^0.14.0"
   },
   "devDependencies": {
     "babel-cli": "^6.23.0",
-    "babel-eslint": "^7.1.1",
+    "babel-eslint": "^8.0.1",
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-0": "^6.5.0",
     "babel-register": "^6.23.0",
     "babel-relay-plugin": "^0.11.0",
-    "cz-conventional-changelog": "^1.2.0",
-    "eslint": "^3.15.0",
-    "eslint-config-google": "^0.7.1",
+    "cz-conventional-changelog": "^2.0.0",
+    "eslint": "^4.8.0",
+    "eslint-config-google": "^0.9.1",
     "eslint-plugin-babel": "^4.0.1",
-    "eslint-plugin-react": "^6.10.0",
+    "eslint-plugin-react": "^7.4.0",
     "rimraf": "^2.6.0",
-    "semantic-release": "^6.3.2"
+    "semantic-release": "^8.0.3"
   },
   "config": {
     "commitizen": {
